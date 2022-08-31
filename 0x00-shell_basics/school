@@ -1,2 +1,2 @@
-0 search/16 23 File containing "SCHOOL"
-!:mime text/plain
+0	string 	SCHOOL	School data
+!:mime	School
